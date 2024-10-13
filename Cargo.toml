@@ -1,5 +1,5 @@
 [package]
-name = "concurrency-2rd"
+name = "concurrency"
 version = "0.1.0"
 edition = "2021"
 authors = ["ffssea <bugducky@outlook.com>"]
@@ -9,3 +9,4 @@ license = "MIT"
 [dependencies]
 anyhow = "1.0.69"
 rand = "0.8.5"
+oneshot = "0.1.6"
